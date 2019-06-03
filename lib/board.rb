@@ -1,2 +1,4 @@
 #define the variable board below.
-board=[""]
+my_array = Array.new
+my_array=board
+board = ["","","","","","","","",""]
